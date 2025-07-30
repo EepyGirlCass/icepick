@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://dsv65ucdsmq52"]
+
+[ext_resource type="Script" uid="uid://8u7x7n7au344" path="res://scripts/convex_hull.gd" id="1_g7g4h"]
+
+[node name="Node" type="Node"]
+script = ExtResource("1_g7g4h")
